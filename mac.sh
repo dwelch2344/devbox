@@ -29,7 +29,7 @@ brew install wget
 
 
 mkdir -p dev/themes
-wget https://raw.github.com/altercation/solarized/master/osx-terminal.app-colors-solarized/xterm-256color/Solarized%20Dark%20xterm-256color.terminal -O dev/themes/solarized-dark.
+wget https://raw.github.com/altercation/solarized/master/osx-terminal.app-colors-solarized/xterm-256color/Solarized%20Dark%20xterm-256color.terminal -O dev/themes/solarized-dark.terminal
 open -a Terminal.app dev/themes/solarized-dark.terminal
 ## Setup UI according to http://net.tutsplus.com/tutorials/tools-and-tips/how-to-customize-your-command-prompt/
 
